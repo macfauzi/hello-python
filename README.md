@@ -1,3 +1,3 @@
 # hello-python
 
-Code change tracked by git
+Code changes tracked by git
